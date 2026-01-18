@@ -28,5 +28,5 @@
 ---
 
 ### 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/aman-rajput123/))
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:rajput.aman2901@gmail.com)
